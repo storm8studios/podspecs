@@ -12,7 +12,7 @@
     "IronSource": "http://www.ironsrc.com/contact/"
   },
   "source": {
-    "http": "https://dl.bintray.com/ironsource-mobile/ios-adapters/ISVungleAdapter4.3.7.zip"
+    "http": "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/vungle-adapter/4.3.7/ISVungleAdapter4.3.7.zip" 
   },
   "source_files": "ISVungleAdapter/ISVungleAdapter.framework/**/*.{h,m}",
   "public_header_files": "ISVungleAdapter/ISVungleAdapter.framework/**/*.h",

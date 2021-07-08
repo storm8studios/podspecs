@@ -12,7 +12,7 @@
     "IronSource": "http://www.is.com/contact/"
   },
   "source": {
-    "http": "https://dl.bintray.com/ironsource-mobile/ios-adapters/ISAdColonyAdapter4.3.9.zip"
+    "http": "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/adcolony-adapter/4.3.9/ISAdColonyAdapter4.3.9.zip"  
   },
   "source_files": "ISAdColonyAdapter/ISAdColonyAdapter.framework/**/*.{h,m}",
   "public_header_files": "ISAdColonyAdapter/ISAdColonyAdapter.framework/**/*.h",

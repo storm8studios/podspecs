@@ -12,7 +12,7 @@
     "IronSource": "http://www.ironsrc.com/contact/"
   },
   "source": {
-    "http": "https://dl.bintray.com/ironsource-mobile/ios-adapters/ISFyberAdapter4.3.11.zip"
+    "http": "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/fyber-adapter/4.3.11/ISFyberAdapter4.3.11.zip"
   },
   "source_files": "ISFyberAdapter/ISFyberAdapter.framework/**/*.{h,m}",
   "public_header_files": "ISFyberAdapter/ISFyberAdapter.framework/**/*.h",
